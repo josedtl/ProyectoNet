@@ -1,0 +1,43 @@
+﻿@using Microsoft.AspNetCore.Components.Authorization
+
+
+<MudNavMenu>
+    <MudNavLink Href="/page/dashboard" Match="NavLinkMatch.All" Icon="@Icons.Material.Filled.Dashboard">DashBoard</MudNavLink>
+
+
+    <MudNavLink Href="/page/Index" Match="NavLinkMatch.Prefix" Icon="@Icons.Material.Filled.Person2">Home</MudNavLink>
+    <MudNavLink Href="/page/counter" Match="NavLinkMatch.Prefix" Icon="@Icons.Material.Filled.Person2">Count</MudNavLink>
+    <MudNavLink Href="/page/Cliente" Match="NavLinkMatch.Prefix" Icon="@Icons.Material.Filled.Person2">Cliente</MudNavLink>
+
+    <MudNavLink Href="/page/PdfCargar" Match="NavLinkMatch.Prefix" Icon="@Icons.Material.Filled.Person2">PdfCargar</MudNavLink>
+    <AuthorizeView Roles="Administrador">
+        <Authorized>
+
+            <MudNavLink Href="/page/fetchdata" Match="NavLinkMatch.Prefix" Icon="@Icons.Material.Filled.Person2">Fetch data</MudNavLink>
+        </Authorized>
+    </AuthorizeView>
+
+
+    <MudNavLink Href="/page/usuario" Match="NavLinkMatch.Prefix" Icon="@Icons.Material.Filled.Person2">Usuarios</MudNavLink>
+    <MudNavGroup Icon="@Icons.Material.Filled.Settings" Title="Mantenimiento">
+        <AuthorizeView Roles="Administrador">
+            <Authorized>
+                <MudNavLink Href="/page/FetchData">FetchData</MudNavLink>
+
+            </Authorized>
+        </AuthorizeView>
+        <MudNavLink Href="/page/counter">counter</MudNavLink>
+    </MudNavGroup>
+
+
+</MudNavMenu>
+@code {
+    private bool collapseNavMenu = true;
+
+    private string? NavMenuCssClass => collapseNavMenu ? "collapse" : null;
+
+    private void ToggleNavMenu()
+    {
+        collapseNavMenu = !collapseNavMenu;
+    }
+}
