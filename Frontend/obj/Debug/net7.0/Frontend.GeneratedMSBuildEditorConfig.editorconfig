@@ -9,65 +9,65 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = Frontend
 build_property.RootNamespace = Frontend
-build_property.ProjectDir = c:\Users\David\Documents\ProyectoPersonal\ProyectoNet\Frontend\
+build_property.ProjectDir = C:\Users\David\Documents\ProyectoPersonal\ProyectoNet\Frontend\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Users\David\Documents\ProyectoPersonal\ProyectoNet\Frontend
+build_property.MSBuildProjectDirectory = C:\Users\David\Documents\ProyectoPersonal\ProyectoNet\Frontend
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/Users/David/Documents/ProyectoPersonal/ProyectoNet/Frontend/App.razor]
+[C:/Users/David/Documents/ProyectoPersonal/ProyectoNet/Frontend/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/David/Documents/ProyectoPersonal/ProyectoNet/Frontend/Pages/Cliente.razor]
+[C:/Users/David/Documents/ProyectoPersonal/ProyectoNet/Frontend/Pages/Cliente.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50ZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/David/Documents/ProyectoPersonal/ProyectoNet/Frontend/Pages/Counter.razor]
+[C:/Users/David/Documents/ProyectoPersonal/ProyectoNet/Frontend/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/David/Documents/ProyectoPersonal/ProyectoNet/Frontend/Pages/FetchData.razor]
+[C:/Users/David/Documents/ProyectoPersonal/ProyectoNet/Frontend/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/David/Documents/ProyectoPersonal/ProyectoNet/Frontend/Pages/Index.razor]
+[C:/Users/David/Documents/ProyectoPersonal/ProyectoNet/Frontend/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/David/Documents/ProyectoPersonal/ProyectoNet/Frontend/Pages/Login.razor]
+[C:/Users/David/Documents/ProyectoPersonal/ProyectoNet/Frontend/Pages/Login.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/David/Documents/ProyectoPersonal/ProyectoNet/Frontend/Pages/PdfCargar.razor]
+[C:/Users/David/Documents/ProyectoPersonal/ProyectoNet/Frontend/Pages/PdfCargar.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGRmQ2FyZ2FyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/David/Documents/ProyectoPersonal/ProyectoNet/Frontend/Pages/Popup/MdCliente.razor]
+[C:/Users/David/Documents/ProyectoPersonal/ProyectoNet/Frontend/Pages/Popup/MdCliente.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUG9wdXBcTWRDbGllbnRlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/David/Documents/ProyectoPersonal/ProyectoNet/Frontend/Pages/Popup/MdClientes.razor]
+[C:/Users/David/Documents/ProyectoPersonal/ProyectoNet/Frontend/Pages/Popup/MdClientes.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUG9wdXBcTWRDbGllbnRlcy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/David/Documents/ProyectoPersonal/ProyectoNet/Frontend/Shared/LoginLayout.razor]
+[C:/Users/David/Documents/ProyectoPersonal/ProyectoNet/Frontend/Shared/LoginLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExvZ2luTGF5b3V0LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/David/Documents/ProyectoPersonal/ProyectoNet/Frontend/Shared/SurveyPrompt.razor]
+[C:/Users/David/Documents/ProyectoPersonal/ProyectoNet/Frontend/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/David/Documents/ProyectoPersonal/ProyectoNet/Frontend/_Imports.razor]
+[C:/Users/David/Documents/ProyectoPersonal/ProyectoNet/Frontend/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/David/Documents/ProyectoPersonal/ProyectoNet/Frontend/Shared/MainLayout.razor]
+[C:/Users/David/Documents/ProyectoPersonal/ProyectoNet/Frontend/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-gknvvqa2uj
 
-[c:/Users/David/Documents/ProyectoPersonal/ProyectoNet/Frontend/Shared/NavMenu.razor]
+[C:/Users/David/Documents/ProyectoPersonal/ProyectoNet/Frontend/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-9ljbyqraro

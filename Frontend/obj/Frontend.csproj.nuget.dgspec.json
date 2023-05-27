@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\David\\Documents\\ProyectoPersonal\\ProyectoBase\\Frontend\\Frontend.csproj": {}
+    "C:\\Users\\David\\Documents\\ProyectoPersonal\\ProyectoNet\\Frontend\\Frontend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\David\\Documents\\ProyectoPersonal\\ProyectoBase\\Frontend\\Frontend.csproj": {
+    "C:\\Users\\David\\Documents\\ProyectoPersonal\\ProyectoNet\\Frontend\\Frontend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\David\\Documents\\ProyectoPersonal\\ProyectoBase\\Frontend\\Frontend.csproj",
+        "projectUniqueName": "C:\\Users\\David\\Documents\\ProyectoPersonal\\ProyectoNet\\Frontend\\Frontend.csproj",
         "projectName": "Frontend",
-        "projectPath": "C:\\Users\\David\\Documents\\ProyectoPersonal\\ProyectoBase\\Frontend\\Frontend.csproj",
+        "projectPath": "C:\\Users\\David\\Documents\\ProyectoPersonal\\ProyectoNet\\Frontend\\Frontend.csproj",
         "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\David\\Documents\\ProyectoPersonal\\ProyectoBase\\Frontend\\obj\\",
+        "outputPath": "C:\\Users\\David\\Documents\\ProyectoPersonal\\ProyectoNet\\Frontend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\David\\AppData\\Roaming\\NuGet\\NuGet.Config"
